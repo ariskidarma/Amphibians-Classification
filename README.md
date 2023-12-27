@@ -8,7 +8,7 @@ Amphibian is a dataset collected by field inventory of toll read projects derive
 - Machine Learning modelling: Naive Bayes, Decision Tree, Support Vector Machine
 - Evaluation: Classification Report and Performance Comparison
 
-##Dataset
+## Dataset
 
 https://archive.ics.uci.edu/ml/datasets/Amphibians
 
